@@ -11,7 +11,7 @@ Simple app that adds a configurable upsell bump in the storefront checkout flow 
 Once installed, the app allows a merchant to configure a product in the cart to trigger showing an upsell offer for another product. A coupon can also be added as part of the upsell offer to make it more enticing for customers to add the additional product to their cart. 
 
 
-App settings use the built in [App Form](https://developers.29next.com/docs/apps/manifest/) from manifest.json allowing easy configuration through the dashboard. 
+App settings use the built in [App Form](https://developers.nextcommerce.com/docs/apps/manifest) from manifest.json allowing easy configuration through the dashboard. 
 
 
 ### Screenshots
